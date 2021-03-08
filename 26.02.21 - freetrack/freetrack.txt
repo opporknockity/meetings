@@ -1,0 +1,73 @@
+13:02:07 From  Dionisio Garsia  to  Everyone : а все молчат
+13:02:10 From  Dionisio Garsia  to  Everyone : или у меня зву не работает?
+13:02:27 From  Anna Akhremenko  to  Everyone : Привет))
+13:02:34 From  yu-belkina137  to  Everyone : Привет)
+13:02:43 From  Anna Akhremenko  to  Everyone : давайте запись включим)
+13:06:01 From  Yana Ganina  to  Everyone : https://miro.com/app/board/o9J_lSIj2ms=/
+13:07:28 From  София Техажева  to  Everyone : не могу зайти в Миро по техническим причинам, но работаю над фритреком курса по алгоритмам
+13:08:14 From  Savva Dudin  to  Everyone : Можно ли еще раз ссылку?
+13:08:20 From  Anna Akhremenko  to  Everyone : https://miro.com/app/board/o9J_lSIj2ms=/
+13:11:30 From  Vladislav Kozhemiakin  to  Everyone : огонь
+13:11:31 From  Елена Чуйко  to  Everyone : о, красиво.
+13:11:45 From  Lolita Gruzdeva  to  Everyone : супер
+13:12:00 From  Dionisio Garsia  to  Everyone : а где все эти сылки собраны?
+13:12:04 From  Dionisio Garsia  to  Everyone : для глупых типа меня
+13:12:12 From  Dionisio Garsia  to  Everyone : ссылки* 
+13:12:12 From  Anna Akhremenko  to  Everyone : https://www.notion.so/praktikum/047abf478d7744f7b3855d02f95207c2
+13:12:16 From  Dionisio Garsia  to  Everyone : спасибо!
+13:12:21 From  Batyr Tanatarov  to  Everyone : круть!
+13:12:23 From  yu-belkina137  to  Everyone : там еще нет инфы про блоки с окнами конверсии
+13:15:43 From  Sergey N  to  Everyone : у Марка нет подкаста случаем? я готов слушать
+13:15:49 From  Vika Kotlova  to  Everyone : Вопрос всем: знаю, что у нас считается целевой конверсией из подписки в оплату — 1,5%. А в течение какого времени формируется эта конверсия? Очевидно, что в первый месяц и 6ой после подписки конверсии разные.
+13:15:53 From  Sergey N  to  Everyone : очень терапевтично
+13:15:56 From  Anna Akhremenko  to  Everyone : Поработаем над этим))
+13:15:56 From  Елена Чуйко  to  Everyone : "дата прохождения" = "дата старта прохождения"? 
+13:16:10 From  Anna Akhremenko  to  Everyone : Лена, дата окончания первого урока
+13:16:25 From  Елена Чуйко  to  Everyone : ага, спасибо
+13:16:53 From  Sergey N  to  Everyone : Вика, по опыту: за 3 месяца происходит наполнение воронки
+13:17:10 From  Vika Kotlova  to  Everyone : Спасибо!
+13:17:53 From  София Техажева  to  Everyone : а проснулись - это значит начали опять проходить с этого урока?
+13:18:15 From  Batyr Tanatarov  to  Everyone : когда юзер считается lost?
+13:18:23 From  Vika Kotlova  to  Everyone : Расскажите большо про to_do, это значит что человек меньше 7 дней проходит урок?
+13:18:25 From  Nika Kiseleva  to  Everyone : Вик, по разным курсам разная конверсия, 1,5% не у всех выходит, есть курсы где больше есть где меньше
+13:19:22 From  Vika Kotlova  to  Everyone : Ника, спасибо! Про окно доконвертации интересно было
+13:19:45 From  Anna Akhremenko  to  Everyone : Ссылка на документацию дашбордов: https://www.notion.so/praktikum/f410ecdf0cc540d99232c64307c4a5cf?v=d8ebc4673d154de2bd7f2364267d5ea5
+13:19:54 From  Anna Akhremenko  to  Everyone : на вопросы сейчас асинхронно ответим)
+13:20:29 From  Vladislav Kozhemiakin  to  Everyone : Спасибо, Марк
+13:20:30 From  Regina Shelest  to  Everyone : Спасибо!
+13:20:41 From  Batyr Tanatarov  to  Everyone : cпасибо!
+13:20:43 From  Lolita Gruzdeva  to  Everyone : Просто топ
+13:20:47 From  Vika Kotlova  to  Everyone : Марк, спасибо! Надо записать видео туториал для всех
+13:22:26 From  Yana Ganina  to  Everyone : https://miro.com/app/board/o9J_lSIj2ms=/
+13:24:25 From  Mark Sysoev  to  Everyone : о вопросиках про статусы:1) статус lost даётся студенту на уроке, если он его не прошёл. а прошлый урок был пройден более 7 дней назад. То есть он 7 дней уже не проходил ни одного урока - тогда считаем потеряшкой
+13:24:54 From  Mark Sysoev  to  Everyone : 2) статус to_do даётся студику на уроке, если он ещё не lost на нём, но и не прошёл его пока что
+13:27:28 From  Титова Елизавета  to  Everyone : Если можно, киньте ещё раз ссылку на миро, пожалуйста)
+13:28:27 From  Vika Kotlova  to  Everyone : Вопрос тоже всем: как вы боретесь с тем, что на фритрек подписалось 100 человек, а прошли первый урок 20? Допустим триггерные рассылки не работают.
+13:29:07 From  Vika Kotlova  to  Everyone : Лиза, ссылка https://miro.com/app/board/o9J_lSIj2ms=/
+13:29:45 From  Sasha Bratchikov  to  Everyone : Вика, работаем над первым уроком в таких случаях
+13:31:03 From  Valeria Solodnikova  to  Everyone : важно понимать, у нас одна команда работает над фри треком и платным треком
+13:31:22 From  Regina Shelest  to  Everyone : У нас тоже
+13:31:59 From  Sasha Bratchikov  to  Everyone : а кто может подробнее рассказать вот про это:
+13:32:00 From  Mark Sysoev  to  Everyone : Вика, ещё на вебе USA был эксперимент с "уроком до реги" - когда давали пройти пару заданий ещё до регистрации, чтобы "подогреть". Конверсия из посещения лендинга во вторую тему в итоге выросла
+13:32:01 From  Sasha Bratchikov  to  Everyone : Выделяем сегменты студентов (по целям+бэкграунду), маркетинг смотрит конверсии и источники, оптимизируем А-сегмент
+13:32:20 From  Valeria Solodnikova  to  Everyone : эммм
+13:32:29 From  Valeria Solodnikova  to  Everyone : А кто-то удали тег питон1?
+13:32:36 From  Valeria Solodnikova  to  Everyone : у меня он пропал со всех моих карточек(
+13:37:43 From  Nika Kiseleva  to  Everyone : вопрос - целевая метрика тут CR или конверсия в оплату?
+13:53:25 From  Anna Akhremenko  to  Everyone : Всем спасибо за встречу, нужно бежать дальше! Марк, Юля и Лиза помогут сориентироваться где наши задачи и над чем мы уже работаем. Всем хорошего дня!
+13:59:09 From  Vladislav Kozhemiakin  to  Everyone : Ребята, нужно бежать на следующую встречу! Спасибо большое за организацию и коллективную проработку. От нашей команды Батыр и Лиза заберут повестки со встречи
+13:59:33 From  Nika Kiseleva  to  Everyone : звучит как в целом запрос на внедрение культуры экспериментов (все 4 стикера)
+13:59:42 From  Batyr Tanatarov  to  Everyone : +
+13:59:43 From  Regina Shelest  to  Everyone : +
+14:00:42 From  Batyr Tanatarov  to  Everyone : да, встреча очень полезная, спасибо!
+14:03:29 From  Savva Dudin  to  Everyone : Спасибо!
+14:03:40 From  Regina Shelest  to  Everyone : Спасибо, ребят!
+14:03:42 From  Batyr Tanatarov  to  Everyone : круто, спасибо, Марк!
+14:03:57 From  Lolita Gruzdeva  to  Everyone : Это было очень полезно
+14:03:58 From  Valeria Solodnikova  to  Everyone : спасибо!
+14:03:59 From  Lolita Gruzdeva  to  Everyone : Спасибо
+14:04:00 From  Dionisio Garsia  to  Everyone : всем спс
+14:04:01 From  Dionisio Garsia  to  Everyone : убежал
+14:04:01 From  Batyr Tanatarov  to  Everyone : и вся команда аналитики!
+14:04:59 From  Mark Sysoev  to  Everyone : :heart:Спасибо, ребята, нам очень полезно видеть эти карточки с проблемами - очень помогает понять, куда двигаться.
+14:06:08 From  Nika Kiseleva  to  Everyone : супер, спасибо большое

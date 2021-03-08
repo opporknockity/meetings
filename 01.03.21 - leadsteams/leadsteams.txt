@@ -1,0 +1,48 @@
+15:01:36 From  Polina Nahorna  to  Everyone : все едят
+15:01:52 From  Polina Nahorna  to  Everyone : спасибо
+15:05:23 From  Anton Eremin  to  Everyone : Скажите когда можно набрасывать начинать
+15:05:51 From  Aleksey Makarov  to  Everyone : В любое удобное тебе время
+15:06:48 From  Марина Левушкина  to  Everyone : У меня сегодня была встреча с юней и Володей на 2 минуты
+15:06:51 From  Марина Левушкина  to  Everyone : учитесь
+15:07:00 From  Anton Eremin  to  Everyone : Как показывает практика, пиздеть не мешки ворочать
+15:08:35 From  Anton Eremin  to  Everyone : +
+15:08:45 From  Batyr Tanatarov  to  Everyone : +
+15:11:33 From  Batyr Tanatarov  to  Everyone : + к Антону насчет регулярок
+15:12:31 From  Anton Eremin  to  Everyone : Это значит начинать другую встречу вовремя
+15:16:02 From  Anton Eremin  to  Everyone : Коммент к пункту встреча — есть общее правило Практикума — ждём 5 минут и не больше
+15:16:35 From  Anton Eremin  to  Everyone : И особенно когда кто-то из участников встречи не знаком с контекстом
+15:16:56 From  Batyr Tanatarov  to  Everyone : + к Оле
+15:19:21 From  Aleksey Makarov  to  Everyone : + ещё остаётся сразу какой-то артефакт (в виде той же переписки, которая дальше может быть удобно использована для того, чтобы кому-то форварднуть, например)
+15:21:02 From  Anton Eremin  to  Everyone : Да, конечно, это ведёт за собой другой скоуп вопросов, которые нужно решать
+15:21:10 From  Batyr Tanatarov  to  Everyone : при слове форварднуть вспомнил огромные цепочки имейлов из прошлого)
+15:22:28 From  Aleksey Makarov  to  Everyone : Если мне ещё и на почту будут писать, то я умру
+15:26:53 From  Anton Eremin  to  Everyone : Мне ок
+15:26:58 From  Mikhail Radzhabov  to  Everyone : Мне ок
+15:27:06 From  Aleksey Makarov  to  Everyone : Мне ок
+15:27:07 From  Титова Елизавета  to  Everyone : ок
+15:27:23 From  Anton Eremin  to  Everyone : И спасибо Владу, что всех собрал
+15:27:23 From  Polina Nahorna  to  Everyone : мне ок. про то, что нужно отмечать обязательных и не очень обязательных участников супер ок
+15:27:30 From  Anton Eremin  to  Everyone : В смысле всё собрал в один док
+15:27:40 From  Polina Nahorna  to  Everyone : а эта встреча остается регулярной?
+15:27:57 From  Anton Eremin  to  Everyone : Лидтим синк?
+15:28:13 From  Polina Nahorna  to  Everyone : да
+15:28:48 From  Anton Eremin  to  Everyone : Я бы обсудил это в конце сегодня
+15:29:19 From  Anton Eremin  to  Everyone : Продолжаем!
+15:29:26 From  Титова Елизавета  to  Everyone : Может ещё потестим?
+15:34:28 From  Aleksey Makarov  to  Everyone : А не хотим мы сделать чатик для синхронизации по тому, что будем делать в этот день? Типа такой чат для того, чтобы перед самим собой (и в какой-то степени перед другими) закоммититься?
+15:35:37 From  Batyr Tanatarov  to  Everyone : давайте только не в отдельный чат)
+15:35:43 From  Batyr Tanatarov  to  Everyone : + про лидстим
+15:35:50 From  Aleksey Makarov  to  Everyone : Давайте в лидстим
+15:45:07 From  Марина Левушкина  to  Everyone : Может будем постить эти сообщения в отдельный канал?
+15:46:44 From  Anton Eremin  to  Everyone : Все такие отдельные каналы так грустно потом умирали…
+15:49:41 From  Марина Левушкина  to  Everyone : А так будет мясо в дата инсайд
+15:49:47 From  Anton Eremin  to  Everyone : 4 треда будет
+15:49:51 From  Anton Eremin  to  Everyone : Нормально)
+15:50:15 From  Mike Cole  to  Everyone : как вариант, если и будет мясо - страница в Notion, с архивом в тогле
+15:50:38 From  Титова Елизавета  to  Everyone : notion регулярно смотреть не будут скорее всего
+15:51:03 From  Anton Eremin  to  Everyone : Двойка мне прослушал
+15:51:10 From  Костя  to  Everyone : инет плохой, поэтому без видео. но я всё слушал. По этой встрече тоже будет фолоуап?
+15:52:11 From  Batyr Tanatarov  to  Everyone : будет ли фолоуапп у встречи про встречи и когда встретимся еще раз)
+15:55:55 From  Anton Eremin  to  Everyone : Будет-будет
+15:56:41 From  Титова Елизавета  to  Everyone : ок)
+15:56:44 From  Polina Nahorna  to  Everyone : спасибо!
