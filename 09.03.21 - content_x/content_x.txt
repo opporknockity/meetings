@@ -1,0 +1,29 @@
+13:05:01 From  Zach Bullard  to  Everyone : и я тоже +
+13:07:01 From  Александра Самуилкина  to  Everyone : Сколько вкладок)
+13:07:47 From  Daniil Fedulov  to  Everyone : А что так мало вкладок?
+13:08:00 From  Алексей Умнов  to  Everyone : доска в трекере это конечно что-то с чем-то
+13:08:05 From  Алексей Умнов  to  Everyone : количество столбцов жесть
+13:11:31 From  yan  to  Everyone : А к кому с доступом по форме? У меня нет прав :(
+13:12:18 From  Polina Nahorna  to  Everyone : https://st.yandex-team.ru/createTicket?queue=DS&_form=66320
+13:12:21 From  Daniil Fedulov  to  Everyone : Ян, а у тебя есть токен или TOTP?
+13:13:13 From  yan  to  Everyone : видимо токен. Т.е. я в трекере но мне доступа нет
+13:13:38 From  Алексей Умнов  to  Everyone : не, сорри, вопрос снимается уже
+13:13:47 From  yan  to  Everyone : т.е. я в трекер захожу пароль + одноразовый
+13:14:00 From  Zach Bullard  to  Everyone : Полина, дублируем задачи которые написали в слаке?
+13:15:49 From  Daniil Fedulov  to  Everyone : Ян, попробуй ещё раз, пожалуйста!
+13:16:18 From  yan  to  Everyone : да всё ок
+13:19:45 From  Марина Левушкина  to  Everyone : я дойду до дома и внесу, ничего?
+13:23:20 From  Polina Nahorna  to  Everyone : https://st.yandex-team.ru/agile/board/14617/sprints
+13:26:01 From  Polina Nahorna  to  Everyone : https://st.yandex-team.ru/agile/board/14617
+13:26:25 From  Zach Bullard  to  Everyone : и не сейчас конечно, но кто-то может отдельно мне провести ликбез по трекеру? видимо я ели-ели понимаю как пользоваться
+13:33:03 From  Алексей Умнов  to  Everyone : Гайз, а подскажите, почему эта таска на мне?
+13:33:04 From  Алексей Умнов  to  Everyone : https://st.yandex-team.ru/DS-1445
+13:33:13 From  Алексей Умнов  to  Everyone : Может кто-то знает, кто её делает на самом деле?)
+13:34:21 From  Mike Cole  to  Everyone : вот это вкладки
+13:34:26 From  Александра Самуилкина  to  Everyone : Это редакторская задача) делаем мы с Аней
+13:34:28 From  Zach Bullard  to  Everyone : вот это набор влкадок))
+13:35:10 From  Алексей Умнов  to  Everyone : Саша, спасибо, на кого из вас можно перевесить?)
+13:36:07 From  Александра Самуилкина  to  Everyone : Лёш, поставь, наверное, лучше на Аню, так как в ДА меньше шаблонов, у меня только один остался
+13:37:12 From  Алексей Умнов  to  Everyone : готово, спасибо
+13:41:17 From  Дмитрий Литовченко  to  Everyone : :D
+13:41:46 From  Александра Самуилкина  to  Everyone : Куда кидать донаты?)))
